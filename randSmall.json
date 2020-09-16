@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [126.98744802023414, 37.57426339862806]
+    },
+    "properties": {
+      "id": 0,
+      "name": "Random Point #0",
+      "description": "description for Random Point #0",
+      "score": 191
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [126.9887467987514, 37.571242470853434]
+    },
+    "properties": {
+      "id": 1,
+      "name": "Random Point #1",
+      "description": "description for Random Point #1",
+      "score": 178
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [126.993595024569, 37.56497074375221]
+    },
+    "properties": {
+      "id": 99,
+      "name": "Random Point #99",
+      "description": "description for Random Point #99",
+      "score": 154
+    }
+  }]
+}

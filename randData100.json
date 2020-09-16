@@ -1,0 +1,1605 @@
+{
+  "type":"FeatureCollection",
+  "features":[
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97746015936791,
+          37.56441906473722
+        ]
+      },
+      "properties":{
+        "id":0,
+        "name":"Random Point #0",
+        "description":"description for Random Point #0",
+        "score":183
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98330406644843,
+          37.57595441296093
+        ]
+      },
+      "properties":{
+        "id":1,
+        "name":"Random Point #1",
+        "description":"description for Random Point #1",
+        "score":136
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99472313433033,
+          37.56825777972093
+        ]
+      },
+      "properties":{
+        "id":2,
+        "name":"Random Point #2",
+        "description":"description for Random Point #2",
+        "score":139
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97739477670615,
+          37.56902232403354
+        ]
+      },
+      "properties":{
+        "id":3,
+        "name":"Random Point #3",
+        "description":"description for Random Point #3",
+        "score":101
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98150034787834,
+          37.573960338876496
+        ]
+      },
+      "properties":{
+        "id":4,
+        "name":"Random Point #4",
+        "description":"description for Random Point #4",
+        "score":172
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97956619125429,
+          37.56930084204632
+        ]
+      },
+      "properties":{
+        "id":5,
+        "name":"Random Point #5",
+        "description":"description for Random Point #5",
+        "score":138
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98963321379375,
+          37.56286171358297
+        ]
+      },
+      "properties":{
+        "id":6,
+        "name":"Random Point #6",
+        "description":"description for Random Point #6",
+        "score":161
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97898307910282,
+          37.56279866559788
+        ]
+      },
+      "properties":{
+        "id":7,
+        "name":"Random Point #7",
+        "description":"description for Random Point #7",
+        "score":164
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98346237373813,
+          37.57481910849852
+        ]
+      },
+      "properties":{
+        "id":8,
+        "name":"Random Point #8",
+        "description":"description for Random Point #8",
+        "score":190
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97727170192994,
+          37.5662770960502
+        ]
+      },
+      "properties":{
+        "id":9,
+        "name":"Random Point #9",
+        "description":"description for Random Point #9",
+        "score":129
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98019212141831,
+          37.56723076458726
+        ]
+      },
+      "properties":{
+        "id":10,
+        "name":"Random Point #10",
+        "description":"description for Random Point #10",
+        "score":195
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98197402924787,
+          37.55894078534868
+        ]
+      },
+      "properties":{
+        "id":11,
+        "name":"Random Point #11",
+        "description":"description for Random Point #11",
+        "score":130
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98224383677923,
+          37.57157483417039
+        ]
+      },
+      "properties":{
+        "id":12,
+        "name":"Random Point #12",
+        "description":"description for Random Point #12",
+        "score":142
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98496252364959,
+          37.570733506500396
+        ]
+      },
+      "properties":{
+        "id":13,
+        "name":"Random Point #13",
+        "description":"description for Random Point #13",
+        "score":188
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98316484491248,
+          37.5698825563496
+        ]
+      },
+      "properties":{
+        "id":14,
+        "name":"Random Point #14",
+        "description":"description for Random Point #14",
+        "score":128
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97506968984555,
+          37.566773305249676
+        ]
+      },
+      "properties":{
+        "id":15,
+        "name":"Random Point #15",
+        "description":"description for Random Point #15",
+        "score":181
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.9913270949143,
+          37.56999976476412
+        ]
+      },
+      "properties":{
+        "id":16,
+        "name":"Random Point #16",
+        "description":"description for Random Point #16",
+        "score":120
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98854438664345,
+          37.557844477170335
+        ]
+      },
+      "properties":{
+        "id":17,
+        "name":"Random Point #17",
+        "description":"description for Random Point #17",
+        "score":191
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98185234831989,
+          37.56035385559814
+        ]
+      },
+      "properties":{
+        "id":18,
+        "name":"Random Point #18",
+        "description":"description for Random Point #18",
+        "score":108
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98485835603171,
+          37.5565022753136
+        ]
+      },
+      "properties":{
+        "id":19,
+        "name":"Random Point #19",
+        "description":"description for Random Point #19",
+        "score":134
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97908130986043,
+          37.56401121270015
+        ]
+      },
+      "properties":{
+        "id":20,
+        "name":"Random Point #20",
+        "description":"description for Random Point #20",
+        "score":143
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99043054315548,
+          37.56320074771823
+        ]
+      },
+      "properties":{
+        "id":21,
+        "name":"Random Point #21",
+        "description":"description for Random Point #21",
+        "score":134
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98122813869483,
+          37.56524450886728
+        ]
+      },
+      "properties":{
+        "id":22,
+        "name":"Random Point #22",
+        "description":"description for Random Point #22",
+        "score":198
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98733960409551,
+          37.56357331784714
+        ]
+      },
+      "properties":{
+        "id":23,
+        "name":"Random Point #23",
+        "description":"description for Random Point #23",
+        "score":139
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98690662586802,
+          37.57454874817015
+        ]
+      },
+      "properties":{
+        "id":24,
+        "name":"Random Point #24",
+        "description":"description for Random Point #24",
+        "score":106
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98152042931952,
+          37.57205373280004
+        ]
+      },
+      "properties":{
+        "id":25,
+        "name":"Random Point #25",
+        "description":"description for Random Point #25",
+        "score":185
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99089740039774,
+          37.55932370159963
+        ]
+      },
+      "properties":{
+        "id":26,
+        "name":"Random Point #26",
+        "description":"description for Random Point #26",
+        "score":130
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98609210696972,
+          37.574874577625245
+        ]
+      },
+      "properties":{
+        "id":27,
+        "name":"Random Point #27",
+        "description":"description for Random Point #27",
+        "score":117
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98427017436391,
+          37.5591116720982
+        ]
+      },
+      "properties":{
+        "id":28,
+        "name":"Random Point #28",
+        "description":"description for Random Point #28",
+        "score":155
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98016796557575,
+          37.5743339637319
+        ]
+      },
+      "properties":{
+        "id":29,
+        "name":"Random Point #29",
+        "description":"description for Random Point #29",
+        "score":179
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99096476666449,
+          37.56060203728457
+        ]
+      },
+      "properties":{
+        "id":30,
+        "name":"Random Point #30",
+        "description":"description for Random Point #30",
+        "score":172
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98747714511333,
+          37.56172675272574
+        ]
+      },
+      "properties":{
+        "id":31,
+        "name":"Random Point #31",
+        "description":"description for Random Point #31",
+        "score":197
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98720385707657,
+          37.565616664895344
+        ]
+      },
+      "properties":{
+        "id":32,
+        "name":"Random Point #32",
+        "description":"description for Random Point #32",
+        "score":164
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97855367645236,
+          37.5678525598802
+        ]
+      },
+      "properties":{
+        "id":33,
+        "name":"Random Point #33",
+        "description":"description for Random Point #33",
+        "score":157
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98505757000618,
+          37.571569192843896
+        ]
+      },
+      "properties":{
+        "id":34,
+        "name":"Random Point #34",
+        "description":"description for Random Point #34",
+        "score":194
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.9844628769598,
+          37.56526278649125
+        ]
+      },
+      "properties":{
+        "id":35,
+        "name":"Random Point #35",
+        "description":"description for Random Point #35",
+        "score":104
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99298032222663,
+          37.56409717972773
+        ]
+      },
+      "properties":{
+        "id":36,
+        "name":"Random Point #36",
+        "description":"description for Random Point #36",
+        "score":107
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98787954032285,
+          37.56870475469301
+        ]
+      },
+      "properties":{
+        "id":37,
+        "name":"Random Point #37",
+        "description":"description for Random Point #37",
+        "score":197
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.9839586983955,
+          37.5676426362207
+        ]
+      },
+      "properties":{
+        "id":38,
+        "name":"Random Point #38",
+        "description":"description for Random Point #38",
+        "score":123
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98637092558057,
+          37.560013329915556
+        ]
+      },
+      "properties":{
+        "id":39,
+        "name":"Random Point #39",
+        "description":"description for Random Point #39",
+        "score":129
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98669356232323,
+          37.557416017963675
+        ]
+      },
+      "properties":{
+        "id":40,
+        "name":"Random Point #40",
+        "description":"description for Random Point #40",
+        "score":137
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98317081835161,
+          37.5748210370828
+        ]
+      },
+      "properties":{
+        "id":41,
+        "name":"Random Point #41",
+        "description":"description for Random Point #41",
+        "score":146
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99145741993382,
+          37.567847374740346
+        ]
+      },
+      "properties":{
+        "id":42,
+        "name":"Random Point #42",
+        "description":"description for Random Point #42",
+        "score":157
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98794325604025,
+          37.57012314278218
+        ]
+      },
+      "properties":{
+        "id":43,
+        "name":"Random Point #43",
+        "description":"description for Random Point #43",
+        "score":180
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98838557546708,
+          37.56029998691391
+        ]
+      },
+      "properties":{
+        "id":44,
+        "name":"Random Point #44",
+        "description":"description for Random Point #44",
+        "score":104
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99010308683418,
+          37.56561523648846
+        ]
+      },
+      "properties":{
+        "id":45,
+        "name":"Random Point #45",
+        "description":"description for Random Point #45",
+        "score":136
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98261561577289,
+          37.56325838352141
+        ]
+      },
+      "properties":{
+        "id":46,
+        "name":"Random Point #46",
+        "description":"description for Random Point #46",
+        "score":107
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98850779729187,
+          37.56164650660623
+        ]
+      },
+      "properties":{
+        "id":47,
+        "name":"Random Point #47",
+        "description":"description for Random Point #47",
+        "score":182
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98610047139137,
+          37.57317957493031
+        ]
+      },
+      "properties":{
+        "id":48,
+        "name":"Random Point #48",
+        "description":"description for Random Point #48",
+        "score":149
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98019386192004,
+          37.57447118319941
+        ]
+      },
+      "properties":{
+        "id":49,
+        "name":"Random Point #49",
+        "description":"description for Random Point #49",
+        "score":190
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98369111770914,
+          37.57049954087149
+        ]
+      },
+      "properties":{
+        "id":50,
+        "name":"Random Point #50",
+        "description":"description for Random Point #50",
+        "score":143
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97525185651646,
+          37.56429428105148
+        ]
+      },
+      "properties":{
+        "id":51,
+        "name":"Random Point #51",
+        "description":"description for Random Point #51",
+        "score":102
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98322067807365,
+          37.56870675217723
+        ]
+      },
+      "properties":{
+        "id":52,
+        "name":"Random Point #52",
+        "description":"description for Random Point #52",
+        "score":155
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97784419264823,
+          37.56375420210673
+        ]
+      },
+      "properties":{
+        "id":53,
+        "name":"Random Point #53",
+        "description":"description for Random Point #53",
+        "score":147
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99155178676409,
+          37.56729119088948
+        ]
+      },
+      "properties":{
+        "id":54,
+        "name":"Random Point #54",
+        "description":"description for Random Point #54",
+        "score":141
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97909067267791,
+          37.56747373242637
+        ]
+      },
+      "properties":{
+        "id":55,
+        "name":"Random Point #55",
+        "description":"description for Random Point #55",
+        "score":142
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.9769509290953,
+          37.56572473765354
+        ]
+      },
+      "properties":{
+        "id":56,
+        "name":"Random Point #56",
+        "description":"description for Random Point #56",
+        "score":198
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99128370223337,
+          37.57299728916106
+        ]
+      },
+      "properties":{
+        "id":57,
+        "name":"Random Point #57",
+        "description":"description for Random Point #57",
+        "score":101
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98669478379041,
+          37.5594355405512
+        ]
+      },
+      "properties":{
+        "id":58,
+        "name":"Random Point #58",
+        "description":"description for Random Point #58",
+        "score":188
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98750352790731,
+          37.57212652496951
+        ]
+      },
+      "properties":{
+        "id":59,
+        "name":"Random Point #59",
+        "description":"description for Random Point #59",
+        "score":138
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99055467002164,
+          37.57092413335839
+        ]
+      },
+      "properties":{
+        "id":60,
+        "name":"Random Point #60",
+        "description":"description for Random Point #60",
+        "score":101
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98771610544615,
+          37.57006846157769
+        ]
+      },
+      "properties":{
+        "id":61,
+        "name":"Random Point #61",
+        "description":"description for Random Point #61",
+        "score":176
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97907681853886,
+          37.56615367256446
+        ]
+      },
+      "properties":{
+        "id":62,
+        "name":"Random Point #62",
+        "description":"description for Random Point #62",
+        "score":151
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99270423620752,
+          37.5700041070005
+        ]
+      },
+      "properties":{
+        "id":63,
+        "name":"Random Point #63",
+        "description":"description for Random Point #63",
+        "score":175
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99124853434785,
+          37.57202217387302
+        ]
+      },
+      "properties":{
+        "id":64,
+        "name":"Random Point #64",
+        "description":"description for Random Point #64",
+        "score":121
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.9920323443705,
+          37.567719223830814
+        ]
+      },
+      "properties":{
+        "id":65,
+        "name":"Random Point #65",
+        "description":"description for Random Point #65",
+        "score":129
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98635284761018,
+          37.569904222706555
+        ]
+      },
+      "properties":{
+        "id":66,
+        "name":"Random Point #66",
+        "description":"description for Random Point #66",
+        "score":126
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.9828466864042,
+          37.57158734362473
+        ]
+      },
+      "properties":{
+        "id":67,
+        "name":"Random Point #67",
+        "description":"description for Random Point #67",
+        "score":110
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97797391812372,
+          37.5708760864397
+        ]
+      },
+      "properties":{
+        "id":68,
+        "name":"Random Point #68",
+        "description":"description for Random Point #68",
+        "score":198
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98780407133705,
+          37.568595916826744
+        ]
+      },
+      "properties":{
+        "id":69,
+        "name":"Random Point #69",
+        "description":"description for Random Point #69",
+        "score":187
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.9808879199627,
+          37.57145462695222
+        ]
+      },
+      "properties":{
+        "id":70,
+        "name":"Random Point #70",
+        "description":"description for Random Point #70",
+        "score":112
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98358017739663,
+          37.55722857911924
+        ]
+      },
+      "properties":{
+        "id":71,
+        "name":"Random Point #71",
+        "description":"description for Random Point #71",
+        "score":164
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99475051207506,
+          37.56810939613103
+        ]
+      },
+      "properties":{
+        "id":72,
+        "name":"Random Point #72",
+        "description":"description for Random Point #72",
+        "score":130
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98427451226644,
+          37.564315598504216
+        ]
+      },
+      "properties":{
+        "id":73,
+        "name":"Random Point #73",
+        "description":"description for Random Point #73",
+        "score":101
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.9901939499515,
+          37.5586732249377
+        ]
+      },
+      "properties":{
+        "id":74,
+        "name":"Random Point #74",
+        "description":"description for Random Point #74",
+        "score":150
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98195574947658,
+          37.56080859631783
+        ]
+      },
+      "properties":{
+        "id":75,
+        "name":"Random Point #75",
+        "description":"description for Random Point #75",
+        "score":158
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98311357852849,
+          37.569868087065956
+        ]
+      },
+      "properties":{
+        "id":76,
+        "name":"Random Point #76",
+        "description":"description for Random Point #76",
+        "score":190
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.9948313079601,
+          37.56607996257115
+        ]
+      },
+      "properties":{
+        "id":77,
+        "name":"Random Point #77",
+        "description":"description for Random Point #77",
+        "score":130
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.9806486445087,
+          37.56535225864767
+        ]
+      },
+      "properties":{
+        "id":78,
+        "name":"Random Point #78",
+        "description":"description for Random Point #78",
+        "score":186
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98635139313377,
+          37.57300653867335
+        ]
+      },
+      "properties":{
+        "id":79,
+        "name":"Random Point #79",
+        "description":"description for Random Point #79",
+        "score":140
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98007298921962,
+          37.558140537324526
+        ]
+      },
+      "properties":{
+        "id":80,
+        "name":"Random Point #80",
+        "description":"description for Random Point #80",
+        "score":190
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99078298678342,
+          37.56704149629479
+        ]
+      },
+      "properties":{
+        "id":81,
+        "name":"Random Point #81",
+        "description":"description for Random Point #81",
+        "score":121
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97957671306497,
+          37.56777023551536
+        ]
+      },
+      "properties":{
+        "id":82,
+        "name":"Random Point #82",
+        "description":"description for Random Point #82",
+        "score":191
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98568677232535,
+          37.56587705225292
+        ]
+      },
+      "properties":{
+        "id":83,
+        "name":"Random Point #83",
+        "description":"description for Random Point #83",
+        "score":114
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98174882162625,
+          37.56006931525719
+        ]
+      },
+      "properties":{
+        "id":84,
+        "name":"Random Point #84",
+        "description":"description for Random Point #84",
+        "score":166
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97724992910808,
+          37.56286621367351
+        ]
+      },
+      "properties":{
+        "id":85,
+        "name":"Random Point #85",
+        "description":"description for Random Point #85",
+        "score":165
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98105201880077,
+          37.560934763255624
+        ]
+      },
+      "properties":{
+        "id":86,
+        "name":"Random Point #86",
+        "description":"description for Random Point #86",
+        "score":175
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.9758983082707,
+          37.56388480447404
+        ]
+      },
+      "properties":{
+        "id":87,
+        "name":"Random Point #87",
+        "description":"description for Random Point #87",
+        "score":125
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98959265784346,
+          37.56550659806305
+        ]
+      },
+      "properties":{
+        "id":88,
+        "name":"Random Point #88",
+        "description":"description for Random Point #88",
+        "score":111
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98992561359245,
+          37.561078806477354
+        ]
+      },
+      "properties":{
+        "id":89,
+        "name":"Random Point #89",
+        "description":"description for Random Point #89",
+        "score":131
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99007881538175,
+          37.569370851780405
+        ]
+      },
+      "properties":{
+        "id":90,
+        "name":"Random Point #90",
+        "description":"description for Random Point #90",
+        "score":132
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97887966854832,
+          37.57359706588384
+        ]
+      },
+      "properties":{
+        "id":91,
+        "name":"Random Point #91",
+        "description":"description for Random Point #91",
+        "score":135
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98758588045457,
+          37.55721427659864
+        ]
+      },
+      "properties":{
+        "id":92,
+        "name":"Random Point #92",
+        "description":"description for Random Point #92",
+        "score":193
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.97549048053362,
+          37.56770207947011
+        ]
+      },
+      "properties":{
+        "id":93,
+        "name":"Random Point #93",
+        "description":"description for Random Point #93",
+        "score":100
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98906461104693,
+          37.558596438065045
+        ]
+      },
+      "properties":{
+        "id":94,
+        "name":"Random Point #94",
+        "description":"description for Random Point #94",
+        "score":175
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98531252911975,
+          37.56615634759311
+        ]
+      },
+      "properties":{
+        "id":95,
+        "name":"Random Point #95",
+        "description":"description for Random Point #95",
+        "score":103
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98377192270023,
+          37.57436054187328
+        ]
+      },
+      "properties":{
+        "id":96,
+        "name":"Random Point #96",
+        "description":"description for Random Point #96",
+        "score":126
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98831376390302,
+          37.56144957267286
+        ]
+      },
+      "properties":{
+        "id":97,
+        "name":"Random Point #97",
+        "description":"description for Random Point #97",
+        "score":193
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.98835025178896,
+          37.57055101619738
+        ]
+      },
+      "properties":{
+        "id":98,
+        "name":"Random Point #98",
+        "description":"description for Random Point #98",
+        "score":189
+      }
+    },
+    {
+      "type":"Feature",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          126.99033314168824,
+          37.56221229522188
+        ]
+      },
+      "properties":{
+        "id":99,
+        "name":"Random Point #99",
+        "description":"description for Random Point #99",
+        "score":180
+      }
+    }
+  ]
+}
